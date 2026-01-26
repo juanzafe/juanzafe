@@ -36,7 +36,7 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-zamudio-ba3a20375/)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-zamudio-ba3a20375/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanzamudiofdez@gmail.com)
 
 ---
