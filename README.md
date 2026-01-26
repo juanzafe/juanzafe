@@ -21,9 +21,8 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 ---
 
-### 💻 Proyectos Destacados / Featured Projects
+### 💻 Featured Projects
 
-| Proyecto | Descripción | Stack | Link |
 
 | **Car Advisor Pro** | Advanced vehicle search and comparison platform. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://caradvisorpro.es) |
 
