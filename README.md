@@ -40,6 +40,12 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 ---
 
+### 🌍 Languages
+**Spanish:** Native 
+**English:** C1 - Advanced / Proficiency
+
+---
+
 ### ⚡ Fun Facts
 - 🏃‍♂️ Big fan of sports and active living.
 - 🐶 Dog lover.
