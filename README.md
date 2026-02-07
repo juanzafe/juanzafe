@@ -23,13 +23,13 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 ### 💻 Featured Projects
 
+| **ZBE Málaga Checker** | Interactive tool to check vehicle access to Málaga's Low Emission Zones. Features real-time map, nearby parking finder, and badge calculator. | React, TS, Leaflet, Tailwind, OSM API | [Live Site](emalaga-6e82d.web.app) |
 
 | **Car Advisor Pro** | Advanced vehicle search and comparison platform. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://caradvisorpro.es) |
 
 | **Calendario Autoescuela** | Management and logistics tool for driving schools. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://calendarioautoescuela.es) |
 
-| **Padel Pull** | Generate random padel matches easily. | React, Ts, CSS | padelpull.github.io |
-
+| **Padel Pull** | Generate random padel matches easily. | React, TS, CSS | [Live Site](https://padelpull.github.io) |
 
 ---
 
