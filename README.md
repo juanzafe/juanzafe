@@ -27,7 +27,7 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 | **Car Advisor Pro** | Advanced vehicle search and comparison platform. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://caradvisorpro.es) |
 
-| **Calendario Autoescuela** | Management and logistics tool for driving schools. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://calendarioautoescuela.es) |
+| **Driving School Calendar** | Management and logistics tool for driving schools. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://calendarioautoescuela.es) |
 
 | **Padel Pull** | Generate random padel matches easily. | React, TS, CSS | [Live Site](https://padelpull.github.io) |
 
