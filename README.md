@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | React & TypeScript Specialist
 
-I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focus on building modern, scalable, and user-centric web applications. I love turning complex problems into simple, beautiful, and professional interfaces.
+I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focus on building modern, scalable, and user-centric web applications. I love turning complex problems into simple, beautiful and professional interfaces.
 
 ---
 
