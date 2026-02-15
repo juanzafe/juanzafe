@@ -42,7 +42,7 @@ I’m a passionate Junior Developer based in **Málaga, Spain** 🇪🇸. I focu
 
 ### 🌍 Languages
 **Spanish:** Native 
-**English:** C1 - Advanced / Proficiency
+**English:** C1 - Advanced
 
 ---
 
