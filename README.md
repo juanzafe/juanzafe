@@ -36,7 +36,7 @@ I'm a Frontend Engineer based in **Málaga, Spain** 🇪🇸, specialized in the
 |---|---|---|---|
 | **Driving School Calendar** | Production PWA for 50+ instructors. Intelligent scheduling, Recharts analytics, and real-time Firestore sync. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://calendarioautoescuela.es) |
 | **Car Advisor Pro** | Advanced vehicle search & comparison platform consuming NHTSA and API Ninjas data. Scalable architecture with deep TypeScript typing. | React, TS, Tailwind, Firebase, CI/CD | [Live Site](https://caradvisorpro.es) |
-| **Low Emission Zone Checker** | Interactive multi-city tool (Málaga, Madrid, Barcelona) with real-time map, parking finder and badge calculator. | React, TS, Leaflet, Tailwind, OSM API | [Live Site](https://emalaga-6e82d.web.app) |
+| **Low Emission Zone Checker** | Interactive multi-city tool (Málaga, Madrid, Barcelona) with real-time map, parking finder and badge calculator. | React, TS, Leaflet, Tailwind, OSM API | [Live Site](https://zbemalaga-6e82d.web.app/) |
 | **Padel Pull** | PWA for random match generation with SVG visualization and team-balancing algorithms. | React, TS, CSS | [Live Site](https://padelpull.github.io) |
 | **Speed Music** | Mobile-first PWA for real-time song speed control. Download tracks, adjust tempo on the fly, manage favorites — with Spotify sync, offline support, and a dedicated Express backend. | React Native, Expo, TS, Node.js, Express, Firebase, Spotify API | [Live Site](https://speed-music-noe.web.app) |
 
